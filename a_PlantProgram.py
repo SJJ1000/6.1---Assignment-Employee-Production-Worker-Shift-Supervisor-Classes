@@ -2,7 +2,7 @@ import a_PlantClass as pc
 
 primrose = pc.Plant("Green")
 
-sunflower = pc.Flower("Yellow")
+sunflower = pc.Flower("Yellow",10)
 
 print(primrose.get_color())
 
